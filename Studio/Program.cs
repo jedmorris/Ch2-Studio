@@ -7,6 +7,7 @@ namespace Studio
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Sloth!");
+            Console.WriteLine("Hello Sloth!");
         }
     }
 }
